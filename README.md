@@ -1,12 +1,12 @@
 Install pubsub with,
 
-    go get github.com/cskr/pubsub
+    go get github.com/donileo/pubsub
 
 View the [API Documentation](http://godoc.org/github.com/cskr/pubsub).
 
 ## License
 
-Copyright (c) 2013, Chandra Sekar S  
+Copyright (c) 2013, Chandra Sekar S
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
